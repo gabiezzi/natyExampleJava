@@ -1,0 +1,25 @@
+
+U
+java:S18541"?Remove this useless assignment to local variable "bankService".(ðÝ…ç
+Q	java:S125"<This block of commented-out lines of code should be removed.(·£§
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ïå“Àûÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(ã—Â
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(¡Ÿçóýÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(·ÓËÍ
+V	java:S125Y"<This block of commented-out lines of code should be removed.( ”Úˆúÿÿÿÿ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(ƒ¬ê
+M	java:S106g"9Replace this use of System.out or System.err by a logger.(…ÃŸ\
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(äÈ–Ý
+Q	java:S125p"<This block of commented-out lines of code should be removed.(¬…ðÕ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(Ñ¯œÿûÿÿÿÿ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ÌÖš
+R	java:S125‡"<This block of commented-out lines of code should be removed.(¦–Þ”
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(Þ¦¾Ê
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(•ÎàÁÿÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ÔØÎ~
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(œ­£Éüÿÿÿÿ
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(ÌÖš
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(Òžýëýÿÿÿÿ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(Þ¦¾Ê
+O	java:S106´"9Replace this use of System.out or System.err by a logger.(ÌÖš
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(ÞÂ¦›þÿÿÿÿ
